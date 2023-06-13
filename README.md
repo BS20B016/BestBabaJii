@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BestBabaJii
-- 👀 I’m interested in WebDevlopment
-- 🌱 I’m currently learning CSS & JavaScript
+- 👋 Hi, I’m Ghanshyam Didwaniya
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Python and C++
 
 <!---
 BestBabaJii/BestBabaJii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
